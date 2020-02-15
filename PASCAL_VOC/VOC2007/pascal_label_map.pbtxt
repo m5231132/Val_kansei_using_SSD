@@ -1,0 +1,8 @@
+item {
+ id: 1
+ name: 'round'
+}
+item {
+ id: 2
+ name: 'square'
+}

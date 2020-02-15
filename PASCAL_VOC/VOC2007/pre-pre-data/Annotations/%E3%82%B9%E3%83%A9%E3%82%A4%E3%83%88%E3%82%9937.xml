@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%88%E3%82%9937.jpg</filename>
+    <path>communication-PascalVOC-export/Annotations/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%88%E3%82%9937.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>192</width>
+        <height>192</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>left_speech</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>41.26728869374314</xmin>
+        <ymin>26.397365532381997</ymin>
+        <xmax>87.6347420417124</xmax>
+        <ymax>53.225301866081224</ymax>
+    </bndbox>
+</object><object>
+    <name>left_speech</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>41.84275521405049</xmin>
+        <ymin>55.164928649835346</ymin>
+        <xmax>89.4582875960483</xmax>
+        <ymax>77.14297475301866</ymax>
+    </bndbox>
+</object><object>
+    <name>left_speech</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>41.212129527991216</xmin>
+        <ymin>81.57299670691548</ymin>
+        <xmax>88.68688254665203</xmax>
+        <ymax>98.58918770581778</ymax>
+    </bndbox>
+</object><object>
+    <name>right_speech</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>100.62349066959385</xmin>
+        <ymin>32.51262349066959</ymin>
+        <xmax>145.11717892425906</xmax>
+        <ymax>49.47941822173435</ymax>
+    </bndbox>
+</object><object>
+    <name>right_speech</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>100.0546103183315</xmin>
+        <ymin>58.886937431394074</ymin>
+        <xmax>145.54610318331504</xmax>
+        <ymax>77.5702524698134</ymax>
+    </bndbox>
+</object>
+</annotation>

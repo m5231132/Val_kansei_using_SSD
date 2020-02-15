@@ -1,0 +1,16 @@
+item {
+ id: 1
+ name: 'left_speech'
+}
+item {
+ id: 2
+ name: 'right_speech'
+}
+item {
+ id: 3
+ name: 'left_oneway'
+}
+item {
+ id: 4
+ name: 'right_oneway'
+}

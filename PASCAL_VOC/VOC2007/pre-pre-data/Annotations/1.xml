@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>1.jpg</filename>
+    <path>communication-PascalVOC-export/Annotations/1.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>192</width>
+        <height>192</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>38.46734357848518</xmin>
+        <ymin>34.35016465422613</ymin>
+        <xmax>78.84385290889132</xmax>
+        <ymax>54.88501646542261</ymax>
+    </bndbox>
+</object><object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>43.30900109769484</xmin>
+        <ymin>91.87705817782656</ymin>
+        <xmax>82.19703622392974</xmax>
+        <ymax>113.02771679473105</ymax>
+    </bndbox>
+</object><object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>43.212678375411635</xmin>
+        <ymin>73.16822173435784</ymin>
+        <xmax>84.76893523600438</xmax>
+        <ymax>92.88638858397366</ymax>
+    </bndbox>
+</object><object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>40.725576289791434</xmin>
+        <ymin>54.044456641053785</ymin>
+        <xmax>83.39077936333699</xmax>
+        <ymax>71.65010976948408</ymax>
+    </bndbox>
+</object>
+</annotation>

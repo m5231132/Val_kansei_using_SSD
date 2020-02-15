@@ -1,0 +1,15 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>42.jpg</filename>
+    <path>communication-PascalVOC-export/Annotations/42.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>192</width>
+        <height>192</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    
+</annotation>

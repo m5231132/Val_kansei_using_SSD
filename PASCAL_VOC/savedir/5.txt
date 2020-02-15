@@ -1,0 +1,6 @@
+square 37 46 99 75
+square 193 16 278 41
+square 182 51 266 76
+square 193 104 277 130
+square 193 146 278 173
+square 191 182 274 206

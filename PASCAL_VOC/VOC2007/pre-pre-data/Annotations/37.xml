@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>37.jpg</filename>
+    <path>communication-PascalVOC-export/Annotations/37.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>192</width>
+        <height>192</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>44.04829857299671</xmin>
+        <ymin>30.77058177826564</ymin>
+        <xmax>86.41053787047201</xmax>
+        <ymax>53.94154774972557</ymax>
+    </bndbox>
+</object><object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>44.00713501646542</xmin>
+        <ymin>57.15806805708013</ymin>
+        <xmax>85.87952799121844</xmax>
+        <ymax>77.79088913282106</ymax>
+    </bndbox>
+</object><object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>42.85949506037321</xmin>
+        <ymin>81.19099890230515</ymin>
+        <xmax>87.25768386388583</xmax>
+        <ymax>102.63062568605926</ymax>
+    </bndbox>
+</object><object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>45.747530186608124</xmin>
+        <ymin>104.26893523600438</ymin>
+        <xmax>87.301317233809</xmax>
+        <ymax>124.90504939626783</ymax>
+    </bndbox>
+</object><object>
+    <name>right_speech</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>110.46899012074643</xmin>
+        <ymin>56.15120746432492</ymin>
+        <xmax>142.95032930845224</xmax>
+        <ymax>75.43633369923161</ymax>
+    </bndbox>
+</object>
+</annotation>

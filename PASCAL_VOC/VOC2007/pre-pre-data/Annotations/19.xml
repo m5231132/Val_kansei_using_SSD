@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>19.jpg</filename>
+    <path>communication-PascalVOC-export/Annotations/19.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>192</width>
+        <height>192</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>16.74780461031833</xmin>
+        <ymin>16.382272228320527</ymin>
+        <xmax>59.27634467618002</xmax>
+        <ymax>36.60922063666301</ymax>
+    </bndbox>
+</object><object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>20.542261251372118</xmin>
+        <ymin>105.61251372118551</ymin>
+        <xmax>66.87678375411636</xmax>
+        <ymax>127.22502744237102</ymax>
+    </bndbox>
+</object><object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>44.1923710208562</xmin>
+        <ymin>82.57656421514818</ymin>
+        <xmax>88.30488474204171</xmax>
+        <ymax>104.04582875960482</ymax>
+    </bndbox>
+</object><object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>44.21542261251372</xmin>
+        <ymin>57.09138309549945</ymin>
+        <xmax>85.36498353457739</xmax>
+        <ymax>77.73902305159166</ymax>
+    </bndbox>
+</object><object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>43.107299670691546</xmin>
+        <ymin>36.147365532382</ymin>
+        <xmax>84.448682766191</xmax>
+        <ymax>54.282381997804606</ymax>
+    </bndbox>
+</object><object>
+    <name>right_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>116.23271130625686</xmin>
+        <ymin>52.36992316136114</ymin>
+        <xmax>143.74149286498354</xmax>
+        <ymax>67.81448957189902</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,92 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%88%E3%82%9940.jpg</filename>
+    <path>communication-PascalVOC-export/Annotations/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%88%E3%82%9940.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>192</width>
+        <height>192</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>left_speech</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>41.57766190998902</xmin>
+        <ymin>27.818331503841932</ymin>
+        <xmax>86.33809001097694</xmax>
+        <ymax>44.06064763995609</ymax>
+    </bndbox>
+</object><object>
+    <name>left_speech</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>43.531284302963776</xmin>
+        <ymin>55.36663007683864</ymin>
+        <xmax>85.51317233809002</xmax>
+        <ymax>70.54692645444567</ymax>
+    </bndbox>
+</object><object>
+    <name>left_speech</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>41.57519209659714</xmin>
+        <ymin>80.67069154774973</ymin>
+        <xmax>86.46240395170142</xmax>
+        <ymax>97.56833150384193</ymax>
+    </bndbox>
+</object><object>
+    <name>right_speech</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>102.07409440175631</xmin>
+        <ymin>33.61580680570801</ymin>
+        <xmax>145.11306256860593</xmax>
+        <ymax>49.06860592755214</ymax>
+    </bndbox>
+</object><object>
+    <name>right_speech</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>100.40861690450055</xmin>
+        <ymin>50.304335894621296</ymin>
+        <xmax>144.0576289791438</xmax>
+        <ymax>64.37074643249177</ymax>
+    </bndbox>
+</object><object>
+    <name>right_speech</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>99.94099890230515</xmin>
+        <ymin>66.0032930845225</ymin>
+        <xmax>143.25905598243688</xmax>
+        <ymax>81.78375411635565</ymax>
+    </bndbox>
+</object><object>
+    <name>right_speech</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>100.45389681668496</xmin>
+        <ymin>83.82135016465422</ymin>
+        <xmax>146.17343578485182</xmax>
+        <ymax>100.2596048298573</ymax>
+    </bndbox>
+</object>
+</annotation>

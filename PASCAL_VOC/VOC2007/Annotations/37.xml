@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>37.jpg</filename>
+    <path>round_and_square-PascalVOC-export/Annotations/37.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>128</width>
+        <height>128</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>round</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>78.99066959385291</xmin>
+        <ymin>25.704720087815588</ymin>
+        <xmax>113.40395170142702</xmax>
+        <ymax>45.6185510428101</ymax>
+    </bndbox>
+</object><object>
+    <name>round</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>31.054884742041715</xmin>
+        <ymin>42.36717892425906</ymin>
+        <xmax>66.05268935236005</xmax>
+        <ymax>62.22996706915478</ymax>
+    </bndbox>
+</object><object>
+    <name>round</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>19.812294182217343</xmin>
+        <ymin>10.434138309549946</ymin>
+        <xmax>53.98133918770582</xmax>
+        <ymax>30.357848518111965</ymax>
+    </bndbox>
+</object>
+</annotation>

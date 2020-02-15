@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>11.jpg</filename>
+    <path>communication-PascalVOC-export/Annotations/11.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>192</width>
+        <height>192</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>right_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>115.86470911086718</xmin>
+        <ymin>52.63007683863886</ymin>
+        <xmax>144.1152579582876</xmax>
+        <ymax>68.10922063666301</ymax>
+    </bndbox>
+</object><object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>42.27003293084523</xmin>
+        <ymin>27.60098792535675</ymin>
+        <xmax>89.52332601536774</xmax>
+        <ymax>55.218441273326015</ymax>
+    </bndbox>
+</object><object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>44.0417124039517</xmin>
+        <ymin>56.82958287596048</ymin>
+        <xmax>87.52360043907794</xmax>
+        <ymax>78.39846322722283</ymax>
+    </bndbox>
+</object><object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>44.62129527991218</xmin>
+        <ymin>81.77305159165752</ymin>
+        <xmax>86.67810098792535</xmax>
+        <ymax>103.48188803512623</ymax>
+    </bndbox>
+</object><object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>42.79363336992316</xmin>
+        <ymin>104.70773874862788</ymin>
+        <xmax>88.5642151481888</xmax>
+        <ymax>130.8622392974753</ymax>
+    </bndbox>
+</object>
+</annotation>

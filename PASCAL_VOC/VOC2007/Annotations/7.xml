@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>7.jpg</filename>
+    <path>round_and_square-PascalVOC-export/Annotations/7.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>128</width>
+        <height>128</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>square</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>15.0192096597146</xmin>
+        <ymin>28.917124039517017</ymin>
+        <xmax>46.234357848518115</xmax>
+        <ymax>41.169593852908896</ymax>
+    </bndbox>
+</object><object>
+    <name>square</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>74.55104281009879</xmin>
+        <ymin>14.144346871569704</ymin>
+        <xmax>105.48957189901208</xmax>
+        <ymax>24.170691547749726</ymax>
+    </bndbox>
+</object><object>
+    <name>square</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>75.25850713501647</xmin>
+        <ymin>26.9582875960483</ymin>
+        <xmax>106.63666300768386</xmax>
+        <ymax>36.62019758507135</ymax>
+    </bndbox>
+</object><object>
+    <name>square</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>73.48079034028542</xmin>
+        <ymin>38.1569703622393</ymin>
+        <xmax>106.08122941822174</xmax>
+        <ymax>48.548847420417125</ymax>
+    </bndbox>
+</object><object>
+    <name>square</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>71.82930845225027</xmin>
+        <ymin>52.613062568605926</ymin>
+        <xmax>103.58068057080132</xmax>
+        <ymax>63.95938529088913</ymax>
+    </bndbox>
+</object><object>
+    <name>square</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>77.88693743139407</xmin>
+        <ymin>71.28924259055982</ymin>
+        <xmax>110.72996706915478</xmax>
+        <ymax>82.80625686059275</ymax>
+    </bndbox>
+</object>
+</annotation>

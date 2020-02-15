@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>39.jpg</filename>
+    <path>communication-PascalVOC-export/Annotations/39.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>192</width>
+        <height>192</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>32.96953896816685</xmin>
+        <ymin>22.283479692645443</ymin>
+        <xmax>73.33040614709111</xmax>
+        <ymax>42.46761800219539</ymax>
+    </bndbox>
+</object><object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>45.03622392974753</xmin>
+        <ymin>83.26070252469813</ymin>
+        <xmax>86.95472008781559</xmax>
+        <ymax>104.41630076838638</ymax>
+    </bndbox>
+</object><object>
+    <name>left_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>44.479692645444565</xmin>
+        <ymin>57.370472008781555</ymin>
+        <xmax>85.63254665203073</xmax>
+        <ymax>78.09138309549945</ymax>
+    </bndbox>
+</object><object>
+    <name>left_speech</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>43.55351262349067</xmin>
+        <ymin>44.80159165751921</ymin>
+        <xmax>78.94593852908892</xmax>
+        <ymax>57.46432491767289</ymax>
+    </bndbox>
+</object><object>
+    <name>right_oneway</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>113.17672886937432</xmin>
+        <ymin>53.44182217343578</ymin>
+        <xmax>143.76372118551043</xmax>
+        <ymax>67.53293084522502</ymax>
+    </bndbox>
+</object>
+</annotation>
